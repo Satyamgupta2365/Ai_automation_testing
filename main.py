@@ -1,4 +1,4 @@
-import undetected_chromedriver as uc # Changed the import statement
+import undetected_chromedriver as uc 
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import time
